@@ -20,6 +20,9 @@ export const metadata: Metadata = {
     "how much is car insurance",
     "auto insurance quote",
   ],
+  verification: {
+    google: "qlPMVO_Hb-be3_hFHNT9SBbsHO-b_wCOfWfLmTb4EQc",
+  },
   openGraph: {
     title: `${SITE.year} Auto Insurance Calculator | Free`,
     description: "Calculate your car insurance premium. Compare rates by state, age, and coverage type.",
