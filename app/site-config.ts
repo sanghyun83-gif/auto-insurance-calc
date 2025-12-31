@@ -14,7 +14,7 @@ export const SITE = {
     tagline: "Free 2025 Rate Estimator",
     description: "Calculate your auto insurance premium for free. Compare rates by state, age, and coverage type. Get instant estimates and save money on car insurance.",
     year: 2025,
-    baseUrl: "https://auto-insurance-calc.vercel.app",
+    baseUrl: "https://auto-insurance.mysmartcalculators.com",
 };
 
 // ============================================
